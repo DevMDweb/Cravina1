@@ -332,5 +332,8 @@
                 width: 100px;
                 height: 280px;
             }
+                .cta-button{
+                        width: 100%;
+                }
         }
     
