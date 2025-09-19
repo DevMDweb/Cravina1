@@ -333,6 +333,7 @@
                 height: 280px;
             }
                 .cta-button{
+                    padding-top: 1rem;
                         width: 100%;
                 }
         }
